@@ -24,6 +24,6 @@ This is Trading App built using Fastify & Google Sheets API.
 - [googleapis](https://www.npmjs.com/package/googleapis) -  _Node.js client library for using Google APIs_
 
 ### Credentials required
-- Spreadsheet ID needs to be saved i .env
+- Spreadsheet ID needs to be saved in .env
 - Google Service account credentials needs to saved in creds.json
 ###### _credentials should be saved in .env_
