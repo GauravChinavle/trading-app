@@ -1,8 +1,8 @@
-# Tading App using Fastify & Sheets API 
+# Trading App using Fastify & Sheets API 
 
 ### Description
 This is Trading App built using Fastify & Google Sheets API.
-- This project is not final yet. Can be improvized.
+- This project is not final yet. Can be improvised.
 
 
 ### How to use ?
